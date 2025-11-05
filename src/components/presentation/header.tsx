@@ -22,14 +22,14 @@ export function HeroPresentation() {
                 variant="small"
                 className="mr-3 py-0.5 px-3 font-bold text-dark uppercase border-r border-dark"
               >
-                New
+                Innovación
               </Typography>
               <Typography
                 color="black"
                 variant="small"
                 className="flex items-center font-bold uppercase"
               >
-                Astro Starter Template
+                Inteligencia Artificial en Salud
               </Typography>
             </div>
             <Typography
@@ -37,15 +37,15 @@ export function HeroPresentation() {
               color="blue-gray"
               className="mb-8 lg:mr-32 leading-tight font-black"
             >
-              The perfect foundation for your <span className="text-blue">Astro Project</span>
+              Inteligencia Artificial: <span className="text-blue">Aliada en la Atención y Gestión de Citas Médicas</span>
             </Typography>
             <Typography variant="lead" color="blue-gray" className="lg:pr-32">
-              AstroLaunch UI is a free template designed to be both lightweight and feature-rich. It comes packed with everything you need to get your Online Store ready in no time.
+              Solución tecnológica basada en IA para mejorar la experiencia del usuario en la obtención y atención de citas médicas dentro de la SOS EPS Pereira, optimizando accesibilidad y reduciendo tiempos de espera.
             </Typography>
             <div className="mt-12 flex flex-wrap justify-center gap-3 lg:justify-start">
               <a href="#pricing">
                 <Button color="black" className="flex items-center">
-                  Get Started
+                  Conocer Más
                 </Button>
               </a>
             </div>

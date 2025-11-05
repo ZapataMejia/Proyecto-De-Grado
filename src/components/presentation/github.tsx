@@ -12,21 +12,21 @@ export function AstroSection() {
         >
           <CardBody className="py-20 px-14 md:w-7/12">
             <Typography color="white" className="font-normal opacity-70">
-              Open Source
+              Proyecto de Investigación
             </Typography>
             <Typography
               variant="h2"
               color="white"
               className="mb-5 font-normal"
             >
-              Let's join forces for a better web!
+              Inteligencia Artificial para un sistema de salud más eficiente
             </Typography>
             <Typography variant="lead" color="white">
-              AstroLaunch UI is an open source and powerful design system that lets you create Ecommerce websites that your users will love.
+              Solución tecnológica innovadora que utiliza inteligencia artificial para mejorar la experiencia del usuario en la obtención y gestión de citas médicas dentro de la SOS EPS Pereira, optimizando accesibilidad y reduciendo tiempos de espera.
             </Typography>
-            <a href="https://github.com/creativetimofficial/astro-launch-ui">
+            <a href="#pricing">
               <Button color="white" size="sm" variant="outlined" className="flex items-center mt-5">
-                Get Started
+                Conocer Más
               </Button>
             </a>
           </CardBody>

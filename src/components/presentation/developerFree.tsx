@@ -15,7 +15,7 @@ export function DevPresentation() {
               color="blue"
               className="flex items-center font-bold text-lg mb-5"
             >
-              Attention to hiqh-quality code
+              Enfoque en la calidad y usabilidad
             </Typography>
 
             <Typography
@@ -23,10 +23,10 @@ export function DevPresentation() {
               color="blue-gray"
               className="mb-4 leading-tight"
             >
-              Develop consistenly using Astro architecture principles
+              Diseño centrado en el usuario para la gestión de citas médicas
             </Typography>
             <Typography color="blue-gray" className="lg:pr-32">
-              Using AstroLaunch UI you get everything you need to start creating your fully functional and responsive Ecommerce website in days, not months.
+              Aplicativo basado en inteligencia artificial diseñado específicamente para mejorar la experiencia del usuario en la SOS EPS Pereira, optimizando la accesibilidad y reduciendo los tiempos de espera en la atención médica.
             </Typography>
           </div>
           <img src="consistenly.png" alt="components" className="mx-auto hidden md:flex" />

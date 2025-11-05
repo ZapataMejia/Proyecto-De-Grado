@@ -24,24 +24,24 @@ function StatsCard({ count, title, desc }) {
 
 const stats = [
   {
-    count: "140+",
-    title: "Coded Elements",
-    desc: "From buttons, to inputs, navbars, alerts, tabels, cards or charts."
+    count: "100%",
+    title: "Accesible",
+    desc: "Diseño inclusivo que cumple con estándares WCAG garantizando acceso para todos los usuarios."
   },
   {
-    count: "10",
-    title: "Example Pages",
-    desc: "Save months of work when you use our pre-made pages."
+    count: "24/7",
+    title: "Disponibilidad",
+    desc: "Sistema disponible las 24 horas del día para gestionar citas médicas sin limitaciones de horario."
   },
   {
-    count: "30+",
-    title: "Design Blocks",
-    desc: "Mix the already made sections and unleash your creativity."
+    count: "70%",
+    title: "Reducción de Tiempos",
+    desc: "Optimización de procesos que reduce significativamente los tiempos de espera en la atención médica."
   },
   {
-    count: "40+",
-    title: "Global Styles",
-    desc: "Colors, typography system, shadows, and blur effects are ready to be used."
+    count: "100%",
+    title: "Seguro",
+    desc: "Cumplimiento con normativas de protección de datos personales y seguridad de la información médica."
   },
 ];
 
@@ -56,7 +56,7 @@ export function FigmaPresentation() {
               color="blue"
               className="font-bold text-lg mb-5"
             >
-              Fully Coded Components based on Astro
+              Aplicativo basado en Inteligencia Artificial
             </Typography>
 
             <Typography
@@ -64,10 +64,10 @@ export function FigmaPresentation() {
               color="blue-gray"
               className="mb-8 leading-tight"
             >
-              Astro LaunchUI Pro
+              Sistema de Gestión de Citas Médicas SOS EPS
             </Typography>
             <Typography color="blue-gray" className="mb-5 lg:w-[30rem]">
-              All the sections and pages made with these elements will be fully responsive and will look beautiful on all types of screens, including phones, tables, or desktops.
+              Todas las secciones y páginas del aplicativo están diseñadas para ser completamente responsivas y verse perfectas en todos los tipos de pantallas, incluyendo teléfonos, tablets o escritorios, garantizando acceso desde cualquier dispositivo.
             </Typography>
           </div>
           <div className="lg:flex relative">
@@ -78,9 +78,9 @@ export function FigmaPresentation() {
                     <StatsCard key={key} {...props} />
                   ))}
                 </div>
-                <a href="https://www.creative-tim.com/product/astro-launch-ui-pro" target="_blank">
+                <a href="#pricing">
                   <Button color="black" className="flex items-center">
-                     Astro Pro
+                     Conocer Más
                   </Button>
                 </a>
               </div>

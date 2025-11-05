@@ -59,21 +59,21 @@ function BlogPostCard({
 const posts = [
   {
     img: "aboutus.jpg",
-    title: "About Us Page",
-    desc: "Designed to introduce the website's purpose and encourage the user to take an action.",
-    url: "https://demos.creative-tim.com/astro-launch-ui/about",
+    title: "Gestión de Citas",
+    desc: "Sistema inteligente que permite a los usuarios agendar, reprogramar y gestionar sus citas médicas de manera sencilla y eficiente.",
+    url: "#",
   },
   {
     img: "signin.jpg",
-    title: "Sign In Page",
-    desc: "It's designed to provide the user with all the necessary information for a secure login.",
-    url: "https://demos.creative-tim.com/astro-launch-ui/login",
+    title: "Asistente Virtual con IA",
+    desc: "Chatbot basado en procesamiento de lenguaje natural que ayuda a los usuarios a resolver consultas y gestionar citas médicas de forma conversacional.",
+    url: "#",
   },
   {
     img: "404.jpg",
-    title: "404 Error Page",
-    desc: "If you're looking for essential information to make a decision, our website has it all - just not on this page.",
-    url: "https://demos.creative-tim.com/astro-launch-ui/404",
+    title: "Optimización de Recursos",
+    desc: "Algoritmos de inteligencia artificial que optimizan la asignación de citas médicas, reduciendo tiempos de espera y mejorando la eficiencia operativa.",
+    url: "#",
   },
 ];
 
@@ -84,13 +84,13 @@ export function BlogSectionThree() {
         <div className="container mx-auto px-8 py-10">
           <div className="mb-16 text-left">
             <Typography color="blue" className="mb-2 text-lg font-semibold">
-              Get inspired!
+              ¡Conoce las funcionalidades!
             </Typography>
             <Typography variant="h2" color="blue-gray" className="mb-4">
-              Example Pages
+              Características del Aplicativo
             </Typography>
             <Typography color="blue-gray">
-              You can start using our fully coded Ecommerce page examples if you want to get inspired or show something to your client.
+              Explora las principales funcionalidades del aplicativo basado en inteligencia artificial diseñado para mejorar la gestión de citas médicas en la SOS EPS Pereira.
             </Typography>
           </div>
 
