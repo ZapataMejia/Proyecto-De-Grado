@@ -29,25 +29,25 @@ const features = [
     icon: (
       <img className="w-32 mx-auto mb-4" src="icon1.png" />
     ),
-    title: "Accesibilidad",
+    title: "For Designers",
     description:
-      "Diseño inclusivo que garantiza el acceso a los servicios de salud para todos los usuarios, eliminando barreras tecnológicas y facilitando la gestión de citas médicas.",
+      "This template comes packed with designer files based on Figma.",
   },
   {
     icon: (
       <img className="w-32 mx-auto mb-4" src="icon2.png" />
     ),
-    title: "Optimización de Procesos",
+    title: "For Developers",
     description:
-      "Reducción significativa de tiempos de espera mediante inteligencia artificial que optimiza la asignación de citas y mejora la eficiencia operativa.",
+      "Save months of work when you use our fully coded components and pages.",
   },
   {
     icon: (
       <img className="w-32 mx-auto mb-4" src="icon3.png" />
     ),
-    title: "Experiencia del Usuario",
+    title: "For Store Owners",
     description:
-      "Interfaz intuitiva y centrada en el usuario que mejora la satisfacción del paciente y reduce la carga administrativa del personal de salud.",
+      "Save time and money by helping your team focus on customization and features.",
   }
 ];
 
@@ -56,8 +56,8 @@ export function FeatureLanding() {
     <section className="px-4 mt-12">
       <div className="container mx-auto mb-20 text-center">
         <div className="flex justify-center align-center relative z-5">
-          <Typography color="black" className="text-xl mr-2 font-normal">
-            Proyecto de Grado por 
+          <Typography color="dark" className="text-xl mr-2 font-normal">
+            Design & Code by 
           </Typography>
           <svg width="112" height="34" viewBox="0 0 112 34" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect width="34" height="34" rx="17" fill="white"/>

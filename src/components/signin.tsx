@@ -37,7 +37,7 @@ export function SignIn() {
                 Forgot password
               </Typography>
             </div>
-            <Button color="black" size="lg" className="mt-6" fullWidth>
+            <Button color="dark" size="lg" className="mt-6" fullWidth>
               sign in
             </Button>
             <Button

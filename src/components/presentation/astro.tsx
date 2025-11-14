@@ -12,21 +12,21 @@ export function AstroSection() {
         >
           <CardBody className="md:py-20 md:px-14 md:w-7/12">
             <Typography color="white" className="font-bold">
-              Tecnología de vanguardia
+              Frontend web architecture
             </Typography>
             <Typography
               variant="h2"
               color="white"
               className="mb-5 font-normal"
             >
-              ¿Qué es la Inteligencia Artificial en Salud?
+              What is Astro?
             </Typography>
             <Typography variant="lead" color="white">
-              La inteligencia artificial en salud es el uso de tecnologías como el aprendizaje automático y el procesamiento de lenguaje natural para optimizar procesos médicos, mejorar la experiencia del paciente y reducir tiempos de espera en la gestión de citas médicas.
+              Astro is an all-in-one web framework for building fast, content-focused websites. The framework is based in Astro Islands architecture, which represents a leading paradigm shift for frontend web architecture.
             </Typography>
-            <a href="#pricing">
+            <a href="https://github.com/creativetimofficial/astro-launch-ui">
               <Button color="white" size="sm" variant="outlined" className="flex items-center mt-12">
-                Conocer Más
+                Get Started
               </Button>
             </a>
           </CardBody>
